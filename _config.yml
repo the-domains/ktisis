@@ -6,10 +6,10 @@ color:
     - '#787878'
     - '#000000'
     - '#000000'
-  brandStrength: 0.034628
-  lightness: 0
-  rhythmicContrast: 0
-  saturation: 0
+  brandStrength: 0.429899
+  lightness: 0.498311
+  rhythmicContrast: 0.480574
+  saturation: 0.554899
 cta: {}
 layout_spectrum: 1
 name: ktisis
